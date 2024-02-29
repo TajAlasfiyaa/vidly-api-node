@@ -2,7 +2,7 @@ repo_name: TajAlasfiyaa/vidly-api-node
 report_id: fc46834e700bbab512f3a22d98c2f31c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:26:17+00:00'
+timestamp: '2024-02-29T19:00:11+00:00'
 requested_by: TajAlasfiyaa
 provider: github
 branch: master
@@ -86,7 +86,7 @@ tools:
   last_updated_by: Moshfegh Hamedani
   last_updated_on: 2018-07-19 20:41:40.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 3.0.0
   license: MIT
